@@ -1,0 +1,35 @@
+.navItems {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #bec2e2;
+}
+
+.logo {
+    padding-left: 25px;
+    color: white;
+}
+
+.navItems ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    padding-right: 25px;
+
+}
+
+.navItems ul li {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.btn {
+    background-color: #f0f0f0;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}

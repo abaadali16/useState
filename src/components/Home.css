@@ -1,0 +1,29 @@
+ .add,.sub{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+ }
+ .count{
+    font-size: 30px;
+    color: #874caf;
+    font-weight: bold;
+    margin: 20px 0;
+ }
+ .toggle{
+    background-color: #c2cac2; /* Green */
+    border: none;
+    color: white;
+    padding: 6px 12px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 12px;
+    margin: 4px 2px;
+    cursor: pointer;
+
+ }

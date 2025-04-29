@@ -1,0 +1,57 @@
+.forget {
+    margin: 100px auto 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+    height: 50vh;
+    border: 1px solid rgb(219, 219, 208);
+    justify-content: center;
+}
+
+.forget h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.labl {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    margin-right: 260px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+}
+.forget p{
+    width: 300px;
+}
+.forget input {
+    padding: 10px;
+    margin: 5px 0;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.forget button {
+    padding: 10px 20px;
+    margin-top: 10px;
+    background-color: #d1d5d8;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 300px;
+}
+
+.forget button:hover {
+    background-color: #7b8896;
+}
+
+.forget-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
